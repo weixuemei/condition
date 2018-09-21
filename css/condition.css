@@ -1,0 +1,33 @@
+.show-cond-word{
+    color: #1b961b;
+    font-weight:bold;
+    display: block;
+    font-size:1px;
+}
+
+.hidden-cond-word{
+    display: none;
+}
+
+.bottom-in{
+    margin-bottom: 5px;
+}
+
+.cond1-select{
+    width: 35%;
+    margin-right: 4px
+}
+
+.cond2-select{
+    width: 20%;
+    margin-right: 4px
+}
+
+.input-left{
+    margin-right: 5px;
+}
+
+.input-center{
+    margin-right: 5px;
+    margin-left: 20px;
+}
